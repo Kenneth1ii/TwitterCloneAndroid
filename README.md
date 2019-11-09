@@ -50,8 +50,6 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/fixMULArNn.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
 
-## Notes
-
 
 
 
