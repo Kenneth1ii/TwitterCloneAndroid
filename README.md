@@ -55,8 +55,6 @@ Here's a walkthrough of implemented user stories:
 
 # Project 1 - *TwitterCloneAndroid*
 
-**TwitterCloneAndroid** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
-
 Time spent: **5** hours spent in total
 
 ## User Stories
@@ -93,7 +91,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/q3W2KgAHuw.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
