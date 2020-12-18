@@ -32,13 +32,6 @@ The following **bonus** features are implemented:
 - [ ] Compose tweet functionality is build using modal overlay
 - [x] Use Parcelable instead of Serializable using the popular [Parceler library](http://guides.codepath.org/android/Using-Parceler).
 - [ ] Replace all icon drawables and other static image assets with [vector drawables](http://guides.codepath.org/android/Drawables#vector-drawables) where appropriate.
-- [ ] User can **click a link within a tweet body** on tweet details view. The click will launch the web browser with relevant page opened.
-- [ ] User can view following / followers list through any profile they view.
-- [ ] User can see embedded image media within the tweet detail view
-- [ ] Use the popular ButterKnife annotation library to reduce view boilerplate.
-- [ ] On the Twitter timeline, leverage the [CoordinatorLayout](http://guides.codepath.org/android/Handling-Scrolls-with-CoordinatorLayout#responding-to-scroll-events) to apply scrolling behavior that [hides / shows the toolbar](http://guides.codepath.org/android/Using-the-App-ToolBar#reacting-to-scroll).
-- [ ] User can **open the twitter app offline and see last loaded tweets**. Persisted in SQLite tweets are refreshed on every application launch. While "live data" is displayed when app can get it from Twitter API, it is also saved for use in offline mode.
-
 
 ## Video Walkthrough
 
